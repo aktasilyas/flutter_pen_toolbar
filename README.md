@@ -21,9 +21,9 @@ A beautiful, customizable pen toolbar widget for Flutter drawing applications. F
 
 ## Preview
 
-| Default | Small | Large |
-|---------|-------|-------|
-| ![Default](assets/screenshot_1.png) | ![Small](assets/screenshot_small.png) | ![Large](assets/screenshot_large.png) |
+| Medium | Small | Large |
+|--------|-------|-------|
+| ![Medium](assets/screenshot_medium.png) | ![Small](assets/screenshot_small.png) | ![Large](assets/screenshot_large.png) |
 
 ## Installation
 

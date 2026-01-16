@@ -29,7 +29,9 @@ topics:
   - ui
 
 screenshots:
-  - description: 'Pen toolbar with various pen types'
-    path: assets/screenshot_1.png
-  - description: 'Pen selection animation'
-    path: assets/screenshot_2.png
+  - description: 'Pen toolbar - Medium size'
+    path: assets/screenshot_medium.png
+  - description: 'Pen toolbar - Small size'
+    path: assets/screenshot_small.png
+  - description: 'Pen toolbar - Large size'
+    path: assets/screenshot_large.png
