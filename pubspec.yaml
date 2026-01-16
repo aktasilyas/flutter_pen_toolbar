@@ -1,0 +1,35 @@
+name: flutter_pen_toolbar
+description: A beautiful, customizable pen toolbar widget for Flutter drawing applications. Features 14 pen types with realistic designs, smooth animations, and flexible configuration.
+version: 1.0.0
+homepage: https://github.com/ilyasBozworked/flutter_pen_toolbar
+repository: https://github.com/ilyasBozworked/flutter_pen_toolbar
+issue_tracker: https://github.com/ilyasBozworked/flutter_pen_toolbar/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+topics:
+  - drawing
+  - pen
+  - toolbar
+  - canvas
+  - ui
+
+screenshots:
+  - description: 'Pen toolbar with various pen types'
+    path: assets/screenshot_1.png
+  - description: 'Pen selection animation'
+    path: assets/screenshot_2.png
